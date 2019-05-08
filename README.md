@@ -2,6 +2,11 @@
 
 ## Docker-compose examples
 
+- https://g00glen00b.be/docker-containers-on-bluemix/
+- https://g00glen00b.be/containerizing-your-static-web-project/
+- https://g00glen00b.be/monitoring-nginx-with-prometheus-and-grafana/
+- https://g00glen00b.be/docker-spring-boot/
+
 ## Docker-compose tutorials
 
 - https://stackoverflow.com/questions/50734271/how-to-define-build-args-in-docker-compose
