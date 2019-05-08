@@ -6,6 +6,8 @@
 - https://g00glen00b.be/containerizing-your-static-web-project/
 - https://g00glen00b.be/monitoring-nginx-with-prometheus-and-grafana/
 - https://g00glen00b.be/docker-spring-boot/
+- https://developer.okta.com/blog/2019/02/28/spring-microservices-docker
+
 
 ## Docker-compose tutorials
 
