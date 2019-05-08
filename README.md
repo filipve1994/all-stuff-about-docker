@@ -7,7 +7,12 @@
 - https://g00glen00b.be/monitoring-nginx-with-prometheus-and-grafana/
 - https://g00glen00b.be/docker-spring-boot/
 - https://developer.okta.com/blog/2019/02/28/spring-microservices-docker
-
+- https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd
+- https://serversforhackers.com/dockerized-app/compose-separated
+- https://matthiasnoback.nl/2018/03/defining-multiple-similar-services-with-docker-compose/
+- https://runnable.com/docker/advanced-docker-compose-configuration
+- https://stackoverflow.com/questions/33408118/inheritance-or-nesting-with-docker-compose
+- https://docs.docker.com/compose/extends/
 
 ## Docker-compose tutorials
 
@@ -19,7 +24,7 @@
 - https://dev.to/zyfa/setup-the-proxy-for-dockerfile-building--4jc8
 - https://medium.com/@chemidy/create-a-small-and-secure-angular-docker-image-based-on-nginx-93452cb08aa2
 - https://stackoverflow.com/questions/27409761/multiple-dockerfiles-in-project
-
+- https://github.com/spotify/dockerfile-maven/blob/master/docs/usage.md
 
 ### nodejs / NPM
 
