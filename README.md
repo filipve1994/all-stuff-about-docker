@@ -43,3 +43,47 @@
 - https://mherman.org/blog/dockerizing-an-angular-app/
 - https://medium.com/@DenysVuika/your-angular-apps-as-docker-containers-471f570a7f2
 - https://www.whitehorses.nl/blog/running-angular-application-docker-dummies
+
+
+# deployment tutorials
+
+## docker
+
+- https://www.onlinetutorialspoint.com/spring-boot/step-by-step-spring-boot-docker-deployment-example.html
+- https://www.javacodegeeks.com/2018/11/spring-microservices-docker-kubernetes.html
+- https://boby.com.au/technical/2018/08/20/Containerize-and-deploy-spring-boot-api.html
+- https://gorillalogic.com/blog/build-and-deploy-a-spring-boot-app-on-kubernetes-minikube/
+- https://mydeveloperplanet.com/2019/03/13/docker-layers-explained/
+- https://fabianlee.org/2018/05/24/docker-running-a-spring-boot-based-app-in-a-docker-container/
+- https://stackify.com/guide-docker-java/
+- https://stackify.com/docker-image-vs-container-everything-you-need-to-know/
+- https://www.javainuse.com/devOps/docker/docker-jar
+- https://g00glen00b.be/docker-spring-boot/
+- https://www.baeldung.com/dockerizing-spring-boot-application
+- https://stackabuse.com/dockerizing-a-spring-boot-application/
+- https://medium.com/@urbanswati/deploying-spring-boot-restapi-using-docker-maven-heroku-and-accessing-it-using-your-custom-aa04798c0112
+- https://dzone.com/articles/deploying-spring-boot-on-docker
+- https://openliberty.io/blog/2018/06/29/optimizing-spring-boot-apps-for-docker.html
+
+
+
+
+
+## temp other stuff
+
+- https://www.onlinetutorialspoint.com/spring-boot/spring-boot-multiple-data-sources-example.html
+- https://gorillalogic.com/blog/microservices-with-spring-boot-and-spring-cloud-developer-tutorial/
+- https://geeks18.com/deploying-spring-boot-and-mongodb-as-containers-using-kubernetes-and-docker/
+- https://hellokoding.com/docker-compose-with-spring-boot-nginx/
+- https://www.jetbrains.com/help/idea/run-and-debug-a-spring-boot-application-using-docker-compose.html
+- https://dev.to/jay97/docker-compose-an-express-and-mongo-app-aai
+
+
+
+
+
+
+
+
+
+
